@@ -14,9 +14,13 @@ Requirements:
 this requirments is just my development enviroment.
 
 Please manual install to get this package:
-```
+```sh
 git clone https://github.com/i13abe/qSoftplus.git
+cd qSoftplus
+pip install -r requirements.txt
 ```
+
+And install the pytorch which is matched for your enviroment from https://pytorch.org/
 
 
 # How to use the q-Softplus
